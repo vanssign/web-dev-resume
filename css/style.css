@@ -1,0 +1,23 @@
+body{
+	position: relative;
+	background-color: #FFFFFF;
+}
+h1, .fakeh1{
+	color: #acd6d3 !important;
+};
+
+div.cardfooter{
+	color: white;
+};
+.jumbotron{
+	}
+
+	.btn,.navbar,.thead,thead>tr{
+	background-color: #6d9794;
+	font: white!important;
+	border:0px;
+	}
+
+	
+
+	
